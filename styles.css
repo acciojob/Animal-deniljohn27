@@ -1,5 +1,5 @@
 /*  your css code here. If applicable */
-h1{
+#photo-heading{
 	text-align:center;
 	color:white;
 }
@@ -14,7 +14,7 @@ img{
 	padding:;
 	
 }
-.photo-body{
+#animal-photos{
 	background-color:#444444;
 	padding:30px;
 	
