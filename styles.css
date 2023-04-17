@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+	color:white;
+}
+img{
+	width:210px;
+	border-radius:15px;
+}
+.photos{
+	display:flex;
+	flex-flow: row wrap;
+	gap:15px;
+	padding:;
+	
+}
+.photo-body{
+	background-color:#444444;
+	padding:30px;
+	
+}
